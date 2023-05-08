@@ -1,0 +1,97 @@
+{
+  "cups": [
+    {
+      "id": "5154E9B3-8BD7-3C0A-E142-E4848C147243",
+      "title": "Karščio sargas",
+      "description": "ultrices iaculis odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis",
+      "images": [
+        "https://m.media-amazon.com/images/I/71C7slOmMML._AC_SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61bl9LEGbRL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61uwJfKf5hL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61HiMJYWo-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71IgBbGV6oL._AC_SL1280_.jpg"
+      ],
+
+      "price": 4.99,
+      "categoryId": "2",
+      "materialTypeId": "1",
+      "colorId": "1"
+    },
+    {
+      "id": "D23A657F-CBEC-9639-2E85-7CA56B098603",
+      "title": "Ruginukas",
+      "description": "luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos",
+      "images": [
+        "https://m.media-amazon.com/images/I/61bl9LEGbRL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71C7slOmMML._AC_SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61uwJfKf5hL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61HiMJYWo-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71IgBbGV6oL._AC_SL1280_.jpg"
+      ],
+      "price": 10.99,
+      "categoryId": "1",
+      "materialTypeId": "1",
+      "colorId": "2"
+    },
+    {
+      "id": "12A4CD9E-F969-7106-0E70-A8214ED12111",
+      "title": "Mamos veidrodis",
+      "description": "Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut",
+      "images": [
+        "https://m.media-amazon.com/images/I/61uwJfKf5hL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71C7slOmMML._AC_SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61bl9LEGbRL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61HiMJYWo-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71IgBbGV6oL._AC_SL1280_.jpg"
+      ],
+      "price": 19.99,
+      "categoryId": "1",
+      "materialTypeId": "2",
+      "colorId": "1"
+    },
+    {
+      "id": "5F7922A2-19DB-CAD4-4291-1B137C44D066",
+      "title": "Kompoto slėptuvė",
+      "description": "tellus sem mollis dui, in sodales elit erat vitae risus. Duis a mi fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet, erat",
+      "images": [],
+      "price": 1.99,
+      "categoryId": "2",
+      "materialTypeId": "1",
+      "colorId": "2"
+    },
+    {
+      "id": "815C5D64-820D-2DCD-10AA-59EE2D0BC780",
+      "title": "Šulinukas",
+      "description": "Nullam vitae diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam",
+      "images": [],
+      "price": 8.99,
+      "categoryId": "3",
+      "materialTypeId": "2",
+      "colorId": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Puodeliai"
+    },
+    {
+      "id": "2",
+      "title": "Bokalai"
+    },
+    {
+      "id": "3",
+      "title": "Desertiniai puodeliai"
+    }
+  ],
+  "materialTypes": [
+    {
+      "id": "1",
+      "title": "Medis"
+    },
+    {
+      "id": "2",
+      "title": "Molis"
+    }
+  ]
+}
